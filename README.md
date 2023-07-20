@@ -1,4 +1,4 @@
-## AndroidAACEncoder
+## AAC Encoder for Android
 * A android demo that encode pcm to aac using ffmpeg 3.2.4. 
 * You can `cd` to `jni/` and run `ndk-build` gerate ffmpeg .so libs. 
 
